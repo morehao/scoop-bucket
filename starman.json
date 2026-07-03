@@ -1,0 +1,22 @@
+{
+    "version": "0.0.14",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/morehao/starman/releases/download/v0.0.14/starman_0.0.14_windows_amd64.tar.gz",
+            "bin": [
+                "starman.exe"
+            ],
+            "hash": "eaa72e18a6693951150c5a121e6f7380f1ec185cb106c31f39e9b24170373752"
+        },
+        "arm64": {
+            "url": "https://github.com/morehao/starman/releases/download/v0.0.14/starman_0.0.14_windows_arm64.tar.gz",
+            "bin": [
+                "starman.exe"
+            ],
+            "hash": "c14dbbcea7bce0d87eb7fd233f45074142a43b83346af3b9b08a818fb47b1d94"
+        }
+    },
+    "homepage": "https://github.com/morehao/starman",
+    "license": "Apache-2.0",
+    "description": "CLI tool for managing GitHub starred repositories with AI — sync, analyze, categorize, search, and generate awesome lists"
+}
