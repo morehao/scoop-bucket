@@ -1,19 +1,19 @@
 {
-    "version": "0.0.14",
+    "version": "0.0.15",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/morehao/starman/releases/download/v0.0.14/starman_0.0.14_windows_amd64.tar.gz",
+            "url": "https://github.com/morehao/starman/releases/download/v0.0.15/starman_0.0.15_windows_amd64.tar.gz",
             "bin": [
                 "starman.exe"
             ],
-            "hash": "eaa72e18a6693951150c5a121e6f7380f1ec185cb106c31f39e9b24170373752"
+            "hash": "37f5482971c98e4c706ef60f7c0a495a43869cc3a732179f3cb34d51d18d12e9"
         },
         "arm64": {
-            "url": "https://github.com/morehao/starman/releases/download/v0.0.14/starman_0.0.14_windows_arm64.tar.gz",
+            "url": "https://github.com/morehao/starman/releases/download/v0.0.15/starman_0.0.15_windows_arm64.tar.gz",
             "bin": [
                 "starman.exe"
             ],
-            "hash": "c14dbbcea7bce0d87eb7fd233f45074142a43b83346af3b9b08a818fb47b1d94"
+            "hash": "44a3253f3921d3490c39d617dca08aa58a0a9c7a6fb85b99a143c3f08ba10532"
         }
     },
     "homepage": "https://github.com/morehao/starman",
